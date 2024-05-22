@@ -1,5 +1,21 @@
-<h3 align="left">Languages and Tools:</h3>
 
+<h3 align="left">Technical Skills</h3>
+<p aling="left">
+<ul>
+   <li>Backend Technologies: Node.js, Express.js, ASP.NET MVC, RESTful APIs, GraphQL, Socket.io</li>
+   <li>Frontend Technologies: JavaScript, TypeScript, React, React Native, HTML5, CSS3, Webpack</li>
+   <li>Databases: MongoDB, MySQL, PostgreSQL, MSSQL, Redis</li>
+   <li>Container Technologies: Docker, Kubernetes </li>
+   <li>Message Queues: Kafka, RabbitMQ </li>
+   <li>Cloud Platforms: AWS </li>
+   <li>Web Servers: Nginx</li>
+   <li>Development Tools: Git, Jenkins, Puppeteer, Selenium, Jest</li>
+   <li>Design Principles: OOP, MVC, MVVM, SOLID principles</li>
+   <li>Testing: Unit and Integration Testing, End-to-End Testing</li>
+</ul>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
