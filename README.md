@@ -3,7 +3,7 @@
 <p aling="left">
 <ul>
    <li>Backend Technologies: Node.js, Express.js, ASP.NET MVC, RESTful APIs, GraphQL, Socket.io</li>
-   <li>Frontend Technologies: JavaScript, TypeScript, React, React Native, HTML5, CSS3, Webpack</li>
+   <li>Frontend Technologies: JavaScript, TypeScript,JQuery, React, React Native, HTML5, CSS3, Webpack</li>
    <li>Databases: MongoDB, MySQL, PostgreSQL, MSSQL, Redis</li>
    <li>Container Technologies: Docker, Kubernetes </li>
    <li>Message Queues: Kafka, RabbitMQ </li>
