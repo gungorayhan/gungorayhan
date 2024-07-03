@@ -7,7 +7,6 @@
    <li>Databases: MongoDB, MySQL, PostgreSQL, MSSQL, Redis</li>
    <li>Container Technologies: Docker, Kubernetes </li>
    <li>Message Queues: Kafka, RabbitMQ </li>
-   <li>Cloud Platforms: AWS </li>
    <li>Web Servers: Nginx</li>
    <li>Development Tools: Git, Jenkins, Puppeteer, Selenium, Jest</li>
    <li>Design Principles: OOP, MVC, MVVM, SOLID principles</li>
